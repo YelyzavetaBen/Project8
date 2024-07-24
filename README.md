@@ -1,4 +1,4 @@
-<h1><a href="https://github.com/YelyzavetaBen/Project7/blob/main/PwC.pbix">Customer Retention Dashboard for Telecom Industry</a></h1>
+<h1><a href="https://github.com/YelyzavetaBen/Project8/blob/main/Pwc2.pbix">Customer Retention Dashboard for Telecom Industry</a></h1>
 <h2>Overview</h2>
 In the competitive telecom industry, understanding customer needs and service performance is crucial. A leading telecom company required an insightful dashboard to visualize call centre customer behavior and retention patterns. The goal was to present this data in a self-explanatory manner suitable for review and decision-making.
 
